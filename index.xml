@@ -4,16 +4,6 @@
     <title>Quito418 PR</title>
     <link>https://quito418.github.io/</link>
     <description>Recent content on Quito418 PR</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 06:22:18 +0000</lastBuildDate><atom:link href="https://quito418.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences</title>
-      <link>https://quito418.github.io/post/minimap/</link>
-      <pubDate>Fri, 18 Feb 2022 06:22:18 +0000</pubDate>
-      
-      <guid>https://quito418.github.io/post/minimap/</guid>
-      <description>Summary Algorithm explained A-1. MinimizerSketch(s, w, k) M = set() for i to |s| - w - k + 1 do m = &#39;inf&#39; for j = 0 to w - 1 do u, v = hash( ) A-2. InvertibleHash(x, p) A-3. Index(T, w, k) A-4. Map(H, q, w, k, e) </description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://quito418.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
