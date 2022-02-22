@@ -12,7 +12,7 @@
       <pubDate>Fri, 18 Feb 2022 06:22:18 +0000</pubDate>
       
       <guid>https://quito418.github.io/post/minimap/</guid>
-      <description>Summary Algorithm explained A-1. MinimizerSketch(s, w, k) M = set() for i to |s| - w - k + 1 do m = &#39;inf&#39; for j = 0 to w - 1 do u, v = hash( ) A-2. InvertibleHash(x, p) A-3. Index(T, w, k) A-4. Map(H, q, w, k, e) </description>
+      <description>Understanding the algorithm of Minimap. I don&amp;#39;t describe the algorithm of Miniasm here.</description>
     </item>
     
   </channel>
