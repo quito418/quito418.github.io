@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VariantCalling on Quito418 PR</title>
+    <link>https://quito418.github.io/categories/variantcalling/</link>
+    <description>Recent content in VariantCalling on Quito418 PR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://quito418.github.io/categories/variantcalling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A multi-task convolutional deep neural network for variant calling in single molecule sequencing</title>
+      <link>https://quito418.github.io/post/cnn_on_smss41467-019-09025-z/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://quito418.github.io/post/cnn_on_smss41467-019-09025-z/</guid>
+      <description>Applying CNN in Single-Molecule-Sequencing.</description>
+    </item>
+    
+  </channel>
+</rss>

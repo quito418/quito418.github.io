@@ -5,7 +5,16 @@
     <link>https://quito418.github.io/post/</link>
     <description>Recent content in Posts on Quito418 PR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://quito418.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://quito418.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A multi-task convolutional deep neural network for variant calling in single molecule sequencing</title>
+      <link>https://quito418.github.io/post/cnn_on_smss41467-019-09025-z/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://quito418.github.io/post/cnn_on_smss41467-019-09025-z/</guid>
+      <description>Applying CNN in Single-Molecule-Sequencing.</description>
+    </item>
+    
     <item>
       <title>How minimizer is used for seeding in Minimap2</title>
       <link>https://quito418.github.io/post/minimap/</link>
