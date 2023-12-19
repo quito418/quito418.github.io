@@ -5,7 +5,17 @@
     <link>https://quito418.github.io/categories/alignment/</link>
     <description>Recent content in Alignment on Quito418 PR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Mar 2022 03:53:18 +0000</lastBuildDate><atom:link href="https://quito418.github.io/categories/alignment/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Dec 2023 11:11:00 +0000</lastBuildDate><atom:link href="https://quito418.github.io/categories/alignment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BWA-MEME: BWA-MEM emulated with a machine learning approach</title>
+      <link>https://quito418.github.io/post/bwa-meme/</link>
+      <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
+      
+      <guid>https://quito418.github.io/post/bwa-meme/</guid>
+      <description>Paper summary of BWA-MEME.</description>
+    </item>
+    
     <item>
       <title>Whisper: Read alignment using Dirichlet principle and extensive sorting</title>
       <link>https://quito418.github.io/post/whisper/</link>
