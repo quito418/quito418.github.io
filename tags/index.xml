@@ -1,173 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quito418 PR</title>
     <link>https://quito418.github.io/tags/</link>
     <description>Recent content in Tags on Quito418 PR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Dec 2023 11:11:00 +0000</lastBuildDate><atom:link href="https://quito418.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 11:11:00 +0000</lastBuildDate>
+    <atom:link href="https://quito418.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alignment</title>
       <link>https://quito418.github.io/tags/alignment/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/alignment/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BWA</title>
       <link>https://quito418.github.io/tags/bwa/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/bwa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BWA-MEM2</title>
       <link>https://quito418.github.io/tags/bwa-mem2/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/bwa-mem2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BWA-MEME</title>
       <link>https://quito418.github.io/tags/bwa-meme/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/bwa-meme/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>learned-index</title>
       <link>https://quito418.github.io/tags/learned-index/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/learned-index/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Machine learning</title>
       <link>https://quito418.github.io/tags/machine-learning/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NGS</title>
       <link>https://quito418.github.io/tags/ngs/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/ngs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ShortRead</title>
       <link>https://quito418.github.io/tags/shortread/</link>
       <pubDate>Fri, 15 Dec 2023 11:11:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/shortread/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Whisper</title>
       <link>https://quito418.github.io/tags/whisper/</link>
       <pubDate>Fri, 04 Mar 2022 03:53:18 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/whisper/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Whisper2</title>
       <link>https://quito418.github.io/tags/whisper2/</link>
       <pubDate>Fri, 04 Mar 2022 03:53:18 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/whisper2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CNN</title>
       <link>https://quito418.github.io/tags/cnn/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/cnn/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DeepLearning</title>
       <link>https://quito418.github.io/tags/deeplearning/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/deeplearning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SMS</title>
       <link>https://quito418.github.io/tags/sms/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/sms/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VariantCalling</title>
       <link>https://quito418.github.io/tags/variantcalling/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/variantcalling/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Longread</title>
       <link>https://quito418.github.io/tags/longread/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/longread/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>minimap</title>
       <link>https://quito418.github.io/tags/minimap/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/minimap/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>minimizer</title>
       <link>https://quito418.github.io/tags/minimizer/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/minimizer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>seeding</title>
       <link>https://quito418.github.io/tags/seeding/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://quito418.github.io/tags/seeding/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
